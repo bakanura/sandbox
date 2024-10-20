@@ -22,6 +22,11 @@
 		"vscode": {
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
+				"hashicorp.terraform",
+				"hashicorp.hcl",
+				"bridgecrew.checkov",
+				"pjmiravalle.terraform-advanced-syntax-highlighting",
+				"l2fprod.terraform-fork"
 			]
 		}
 	}
